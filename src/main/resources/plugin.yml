@@ -1,0 +1,5 @@
+name: MazeWorld
+main: org.inventivetalent.mazeworld.MazePlugin
+version: ${project.version}
+author: inventivetalent
+api-version: 1.13
